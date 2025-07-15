@@ -10,7 +10,7 @@ aioredis==2.0.1
 colorama==0.4.6
 uvicorn==0.30.4
 pydantic==2.10.5
-aiohttp==3.11.13
+aiohttp==3.12.14
 fastapi==0.115.6
 websockets==15.0.1
 python-jose==3.4.0
